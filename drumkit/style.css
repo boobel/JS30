@@ -3,13 +3,22 @@ body {
     background-color: rgb(48, 43, 43);
 }
 
+.description {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+
+
 .kits {
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
     text-align: center;
-    min-height: 100vh;
+    min-height: 50vh;
 
     
 }
